@@ -91,7 +91,7 @@ You can start or finish any process en any time and it will not afect the other 
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Contact
 

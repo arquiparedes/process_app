@@ -1,0 +1,23 @@
+info general
+equivalente
+numero tina
+
+
+corte
+primera prueba de corte
+prueba final corte
+nnumeros de pruebas
+temp inical
+
+
+
+
+
+aflojarcuajada aflojar
+horaadicioncultivo horaadicioncu
+nombrecultivo1 nombrecu1
+nombrecultivo2 nombrecu2
+cantidadcultivo1 cantidadcu1
+cantidadcultivo2 cantidadcu2
+acidezfinal azfinal
+templeche templ

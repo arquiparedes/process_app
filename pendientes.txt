@@ -1,0 +1,2 @@
+Cargar el .sql para crear la base de datos, se debe hacer en la laptop de prolacsa
+cargar el archivo .env que está en la laptop de prolacsa

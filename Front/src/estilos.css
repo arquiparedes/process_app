@@ -1,0 +1,96 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
+div{
+    /* float: left; */
+    width: 100%;
+}
+header{
+    width: 100%;
+    height: auto;
+}
+
+table{
+    table-layout: fixed;
+}
+
+td{
+    text-align: left;
+    width: 100px;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+#encabezado1{
+    background-color: whitesmoke;
+    height: 150px;
+    border: 1px black solid;
+    border-right: 0px;
+}
+
+#encabezado2_3{
+    height: 150px;
+}
+#contenedor2_3{
+    height: 100%;
+}
+#encabezado2{
+    background-color: whitesmoke;
+    height: 50%;
+    border: 1px black solid;
+    border-bottom: 0px;
+}
+#encabezado3{
+    background-color: whitesmoke;
+    height: 50%;
+    border: 1px black solid;
+}
+#infogeneral{
+    background-color: whitesmoke;
+    width: 100%;
+}
+#contenedortinas{
+    width: 100%;
+    height: auto;
+}
+
+#tina1{
+    height: auto;
+}
+#tina2{
+    height: auto;
+    float: right;
+}
+#tina3{
+    height: auto;
+}
+#tina4{
+    height: auto;
+}
+.infotina{
+    height: 100px;
+}
+.datostina{
+    height: 300px;
+}
+.infotina, .datostina{
+    background-color: white;
+    width: 100%;
+}
+#prolacsa{
+    float: left;
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 30px;
+}
+.hidden{
+    visibility: hidden;
+}
+
+/* .modal-content div{
+    float: none;
+} */

@@ -36,7 +36,7 @@ You can install Postgres from the following [link](https://www.postgresql.org/).
 Once you have installed node.js and Postgress server, please follow the following steps:
 1. Clone the repository in your computer
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/arquiparedes/process_app.git
    ```
 2. Install NPM packages in `Front` and `Back` folders
    ```sh
@@ -101,4 +101,4 @@ LinkedIn - [Arquimedes Paredes](https://www.linkedin.com/in/arquiparedes/)
 
 Web - [www.arquiparedes.com](https://www.arquiparedes.com)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/arquiparedes/process_app.git)
